@@ -1,0 +1,14 @@
+body
+{
+
+  
+  min-height: 120vh;
+
+  background:  #ffff;
+
+}
+.halloween {
+    position: relative;
+    right: 860px;
+    float: right;
+}
